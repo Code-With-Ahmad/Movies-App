@@ -1,0 +1,5 @@
+@import "tailwindcss";
+/* Links Active Class CSS */
+.active {
+  color: rgb(0, 64, 255);
+}
